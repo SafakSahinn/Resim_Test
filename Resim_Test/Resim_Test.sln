@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resim_Test", "Resim_Test\Resim_Test.csproj", "{008B8F9E-2992-4482-A9BF-4089202BAF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008B8F9E-2992-4482-A9BF-4089202BAF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008B8F9E-2992-4482-A9BF-4089202BAF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008B8F9E-2992-4482-A9BF-4089202BAF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008B8F9E-2992-4482-A9BF-4089202BAF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3516343D-C2F7-4404-90F3-59531F666A28}
+	EndGlobalSection
+EndGlobal
